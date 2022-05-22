@@ -10,6 +10,7 @@ Sometimes contribute to ReactOS.
 ## Some projects in ringwormGO which I started
 1. ringOS and ringOSY
 2. Termi
-3. 3D-PC-Sandbox
 
 *Status are not fully correct because most of time I am programming in/for ringwormGO*
+
+*I pick up my profile picture because of good contrast and I didn't pay attention on other details*
