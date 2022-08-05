@@ -1,36 +1,31 @@
 # About me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrej123456789&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrej123456789&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrej123456789&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-I’m currently learning >>
-
-   1. C
-   2. C++
-            
-Favorite programming languages >>
-   1. C++
-   2. C
-   3. Lua
-   4. C#
-   5. Python
-
-Languages I know (sorted when I learn it) >>
-   1. Python
-   2. Visual Basic (.NET)
-   3. C#
-   4. HTML (markdown language, I know basics)
-   5. CSS (markdown language, I know basics)
-   6. C
-   7. C++
-   8. Lua
-   9. Rust (planning to learn)
-
-Sometimes contribute to ReactOS.
-
-## Some projects in ringwormGO which I started
-1. ringOS and ringOSY
-2. Termi
+[Andrej123456789@github.com ~]$ userfetch
+```
+                   -`                    Andrej123456789@github.com 
+                  .o+`                   ------------------------ 
+                 `ooo/                   OS: Arch Linux x86_64
+                `+oooo:                  Host: Nitro AN515-44 V1.04
+               `+oooooo:                 Kernel: 5.18.16-arch1-1 
+               -+oooooo+:                Currently learning: C, C++, Rust
+             `/:-:++oooo+:               Favorite programming languages: C++, Rust, C, Lua, Python, C#
+            `/++++/+++++++:              Languages I know (sorted when I learnt): Python, VB.NET, C#, HTML, CSS, C, C++, Lua, Rust (learning) 
+           `/++++++++++++++:             Projects I'm working on in ringwormGO: ringOS and Termi 
+          `/+++ooooooooooooo/`           My personal projects: 3x, uno
+         ./ooosssso++osssssso+`          Other projects in which I contribute: ReactOS 
+        .oossssso-````/ossssss+`         DE: Xfce 4.16 
+       -osssssso.      :ssssssso.        Theme: Qogir-win-dark [GTK2/3] 
+      :osssssss/        osssso+++.       Icons: Tela-circle-dark [GTK2/3] 
+     /ossssssss/        +ssssooo/-       Terminal: xfce4-terminal 
+   `/ossssso+/:-        -:/+osssso+-     Terminal Font: CaskaydiaCove Nerd Font Mono 12 
+  `+sso+:-`                 `.-/+oso:    CPU: AMD Ryzen 7 4800H with Radeon Graphics (16) @ 2.900GHz 
+ `++:.                           `-/+/   GPU: NVIDIA GeForce GTX 1650 Ti Mobile 
+ .`                                 `/   GPU: AMD ATI 05:00.0 Renoir 
+                                         RAM: 15363MiB
+```
 
 *Status are not fully correct because most of time I am programming in/for ringwormGO*
 
