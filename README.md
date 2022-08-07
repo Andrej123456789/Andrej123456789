@@ -11,7 +11,7 @@
                 `+oooo:                  Host: Nitro AN515-44 V1.04
                `+oooooo:                 Kernel: 5.18.16-arch1-1 
                -+oooooo+:                Currently learning: C, C++, Rust
-             `/:-:++oooo+:               Favorite programming languages: C++, Rust, C, Lua, Python, C#
+             `/:-:++oooo+:               Favorite programming languages: C++, C, Rust, Lua, Python, C#, VB.NET
             `/++++/+++++++:              Languages I know (sorted when I learnt): Python, VB.NET, C#, HTML, CSS, C, C++, Lua, Rust (learning) 
            `/++++++++++++++:             Projects I'm working on in ringwormGO: ringOS and Termi 
           `/+++ooooooooooooo/`           My personal projects: 3x, uno
