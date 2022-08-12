@@ -16,10 +16,10 @@
            `/++++++++++++++:             Projects I'm working on in ringwormGO: ringOS and Termi 
           `/+++ooooooooooooo/`           My personal projects: 3x, uno
          ./ooosssso++osssssso+`          Other projects in which I contribute: ReactOS 
-        .oossssso-````/ossssss+`         DE: Xfce 4.16 
-       -osssssso.      :ssssssso.        Theme: Qogir-win-dark [GTK2/3] 
-      :osssssss/        osssso+++.       Icons: Tela-circle-dark [GTK2/3] 
-     /ossssssss/        +ssssooo/-       Terminal: xfce4-terminal 
+        .oossssso-````/ossssss+`         DE: Plasma 5.25.4
+       -osssssso.      :ssssssso.        Theme: [Plasma], Breeze [GTK2/3]
+      :osssssss/        osssso+++.       Icons: [Plasma], breeze-dark [GTK2/3]
+     /ossssssss/        +ssssooo/-       Terminal: konsole
    `/ossssso+/:-        -:/+osssso+-     Terminal Font: CaskaydiaCove Nerd Font Mono 12 
   `+sso+:-`                 `.-/+oso:    CPU: AMD Ryzen 7 4800H with Radeon Graphics (16) @ 2.900GHz 
  `++:.                           `-/+/   GPU: NVIDIA GeForce GTX 1650 Ti Mobile 
