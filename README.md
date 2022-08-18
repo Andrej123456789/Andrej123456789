@@ -12,7 +12,7 @@
                `+oooooo:                 Kernel: 5.18.16-arch1-1 
                -+oooooo+:                Currently learning: C, C++, Rust
              `/:-:++oooo+:               Favorite programming languages: C++, C, Rust, Lua, Python, C#, VB.NET
-            `/++++/+++++++:              Languages I know (sorted when I learnt): Python, VB.NET, C#, HTML, CSS, C, C++, Lua, Rust (learning) 
+            `/++++/+++++++:              Languages I know (sorted when I learnt): Python, VB.NET, C#, HTML, CSS, C, C++, Lua, Rust
            `/++++++++++++++:             Projects I'm working on in ringwormGO: ringOS and Termi 
           `/+++ooooooooooooo/`           My personal projects: 3x, uno
          ./ooosssso++osssssso+`          Other projects in which I contribute: ReactOS 
@@ -30,3 +30,5 @@
 *Status are not fully correct because most of time I am programming in/for ringwormGO*
 
 *I pick up my profile picture because of good contrast and I didn't pay attention on other details*
+
+*Projects which are archived are really archived*
