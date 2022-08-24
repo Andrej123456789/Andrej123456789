@@ -12,10 +12,10 @@
                `+oooooo:                 Kernel: 5.18.16-arch1-1 
                -+oooooo+:                Currently learning: Kotlin
              `/:-:++oooo+:               Favorite programming languages: C++, C, Rust, Lua, Python, C#, VB.NET
-            `/++++/+++++++:              Languages I know (sorted when I learnt): Python, VB.NET, C#, HTML, CSS, C, C++, Lua, Rust
+            `/++++/+++++++:              Languages I know (sorted when I learnt): Python, VB.NET, C#, HTML, CSS, C, C++, Lua, Rust, Kotlin
            `/++++++++++++++:             Projects I'm working on in ringwormGO: ringOS and Termi 
-          `/+++ooooooooooooo/`           My personal projects: 3x, uno
-         ./ooosssso++osssssso+`          Other projects in which I contribute: ReactOS 
+          `/+++ooooooooooooo/`           My solid personal projects: 3x, uno
+         ./ooosssso++osssssso+`          Other projects in which I contribute(d): ReactOS 
         .oossssso-````/ossssss+`         DE: Plasma 5.25.4
        -osssssso.      :ssssssso.        Theme: [Plasma], Breeze [GTK2/3]
       :osssssss/        osssso+++.       Icons: [Plasma], breeze-dark [GTK2/3]
@@ -30,5 +30,3 @@
 *Status are not fully correct because most of time I am programming in/for ringwormGO*
 
 *I pick up my profile picture because of good contrast and I didn't pay attention on other details*
-
-*Projects which are archived are really archived*
