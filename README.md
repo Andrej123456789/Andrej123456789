@@ -2,7 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrej123456789&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrej123456789&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-![image](https://user-images.githubusercontent.com/83548580/186405029-443009ba-8bc6-4f26-9794-3e1ee0f6d490.png)
+
+*You can also check [this](http://ionicabizau.github.io/github-profile-languages/?user=Andrej123456789) most used languages stats*
 
 [Andrej123456789@github.com ~]$ userfetch
 ```
