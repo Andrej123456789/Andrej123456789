@@ -15,11 +15,11 @@
                -+oooooo+:                Currently learning: Kotlin
              `/:-:++oooo+:               Favorite programming languages: C++, C, Rust, Lua, Python, C#, VB.NET
             `/++++/+++++++:              Languages I know (sorted when I learnt): Python, VB.NET, C#, HTML, CSS, C, C++, Lua, Rust, Kotlin
-           `/++++++++++++++:             Projects I'm working on in ringwormGO: ringOS and Termi 
-          `/+++ooooooooooooo/`           My solid personal projects: 3x, uno
-         ./ooosssso++osssssso+`          Other projects in which I contribute(d): ReactOS 
-        .oossssso-````/ossssss+`         
-       -osssssso.      :ssssssso.        
+           `/++++++++++++++:             Why I learnt those languages: "I like low level development and for that I use C and C++. I also like app dev and
+          `/+++ooooooooooooo/`           again, I use C and C++ but I like sometimes to change that with C# and Kotlin now and do some scripting with Lua"
+         ./ooosssso++osssssso+`          Projects I'm working on/in ringwormGO: Termi
+        .oossssso-````/ossssss+`         My solid personal projects: 3x, uno
+       -osssssso.      :ssssssso.        Other projects in which I contribute(d): ReactOS
       :osssssss/        osssso+++.       
      /ossssssss/        +ssssooo/-       
    `/ossssso+/:-        -:/+osssso+-     Terminal Font: CaskaydiaCove Nerd Font Mono 12 
