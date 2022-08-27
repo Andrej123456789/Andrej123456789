@@ -12,7 +12,7 @@
                  `ooo/                   OS: Arch Linux x86_64
                 `+oooo:                  
                `+oooooo:                 
-               -+oooooo+:                Currently learning: Kotlin
+               -+oooooo+:                Currently learning: 
              `/:-:++oooo+:               Favorite programming languages: C++, C, Rust, Lua, Python, C#, VB.NET
             `/++++/+++++++:              Languages I know (sorted when I learnt): Python, VB.NET, C#, HTML, CSS, C, C++, Lua, Rust, Kotlin
            `/++++++++++++++:             Why I learnt those languages: "I like low level development and for that I use C and C++. I also like app dev and
