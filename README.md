@@ -15,8 +15,8 @@
                -+oooooo+:                Currently learning: C, C++
              `/:-:++oooo+:               Favorite programming languages: C++, C, Rust, Lua, Python, C#, VB.NET
             `/++++/+++++++:              Languages I know (sorted when I learnt): Python, VB.NET, C#, HTML, CSS, C, C++, Lua, Rust, Kotlin
-           `/++++++++++++++:             Why I learnt those languages: "I like low level development and for that I use C and C++. I also like app dev and
-          `/+++ooooooooooooo/`           again, I use C and C++ but I like sometimes to change that with C# and Kotlin now and do some scripting with Lua"
+           `/++++++++++++++:             Why I learnt those languages: "I like low level dev and for that I use C and C++. I also like app dev and
+          `/+++ooooooooooooo/`           again, I use C and C++ but I like sometimes to change that with C# and Rust. Doing scripting with Lua"
          ./ooosssso++osssssso+`          Projects I'm working on/in ringwormGO: Termi
         .oossssso-````/ossssss+`         My solid personal projects: 3x, uno
        -osssssso.      :ssssssso.        Other projects in which I contribute(d): ReactOS
@@ -32,3 +32,5 @@
 *Status are not fully correct because most of time I am programming in/for ringwormGO*
 
 *I pick up my profile picture because of good contrast and I didn't pay attention on other details*
+
+*Rust syntax could be better in my opinion*
