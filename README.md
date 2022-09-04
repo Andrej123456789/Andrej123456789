@@ -21,7 +21,7 @@
         .oossssso-````/ossssss+`         My solid personal projects: 3x, uno
        -osssssso.      :ssssssso.        Other projects in which I contribute(d): ReactOS
       :osssssss/        osssso+++.       
-     /ossssssss/        +ssssooo/-       
+     /ossssssss/        +ssssooo/-       Shells/editors: bash, zsh, Visual Studio Code, Neovim
    `/ossssso+/:-        -:/+osssso+-     Terminal Font: CaskaydiaCove Nerd Font Mono 12 
   `+sso+:-`                 `.-/+oso:    CPU: AMD Ryzen 7 4800H with Radeon Graphics (16) @ 2.900GHz 
  `++:.                           `-/+/   GPU: NVIDIA GeForce GTX 1650 Ti Mobile 
