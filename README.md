@@ -18,7 +18,7 @@
            `/++++++++++++++:             Why I learnt those languages: "I like low level dev and for that I use C and C++. I also like app dev and
           `/+++ooooooooooooo/`           again, I use C and C++ but I like sometimes to change that with C# and Rust. Doing scripting with Lua"
          ./ooosssso++osssssso+`          Projects I'm working on/in ringwormGO: Termi
-        .oossssso-````/ossssss+`         My solid personal projects: 3x, uno
+        .oossssso-````/ossssss+`         My solid personal projects: 3x, uno, GVPaint
        -osssssso.      :ssssssso.        Other projects in which I contribute(d): ReactOS
       :osssssss/        osssso+++.       
      /ossssssss/        +ssssooo/-       Shells/editors: bash, zsh, Visual Studio Code, Neovim
