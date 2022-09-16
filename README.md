@@ -29,8 +29,10 @@
                                          RAM: 15363MiB
 ```
 
+More stuff about me:
+- I think Rust could have little better syntax
+- I wrote two books btw
+
 *Status are not fully correct because most of time I am programming in/for ringwormGO*
 
 *I pick up my profile picture because of good contrast and I didn't pay attention on other details*
-
-*Rust syntax could be better in my opinion*
