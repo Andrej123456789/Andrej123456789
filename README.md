@@ -1,34 +1,22 @@
 # About me
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrej123456789&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrej123456789&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 *You can also check [this](http://ionicabizau.github.io/github-profile-languages/?user=Andrej123456789) most used languages stats*
 
-[Andrej123456789@github.com ~]$ userfetch
-```
-                   -`                    Andrej123456789@github.com 
-                  .o+`                   ------------------------ 
-                 `ooo/                   OS: Arch Linux x86_64
-                `+oooo:                  
-               `+oooooo:                 
-               -+oooooo+:                Currently learning: C, C++, Rust
-             `/:-:++oooo+:               Favorite programming languages: C++, C, Rust, Lua, Python, C#, VB.NET
-            `/++++/+++++++:              Languages I know (sorted when I learnt): Python, VB.NET, C#, HTML, CSS, C, C++, Lua, Rust, Kotlin
-           `/++++++++++++++:             Why I learnt those languages: "I like low level dev and for that I use C and C++. I also like app dev and
-          `/+++ooooooooooooo/`           again, I use C and C++ but I like sometimes to change that with C# and Rust. Doing scripting with Lua"
-         ./ooosssso++osssssso+`          Projects I'm working on/in ringwormGO: Termi
-        .oossssso-````/ossssss+`         My solid personal projects: 3x, uno, GVPaint
-       -osssssso.      :ssssssso.        Other projects in which I contribute(d): ReactOS
-      :osssssss/        osssso+++.       
-     /ossssssss/        +ssssooo/-       Shells/editors: bash, zsh, Visual Studio Code, Neovim
-   `/ossssso+/:-        -:/+osssso+-     Terminal Font: CaskaydiaCove Nerd Font Mono 12 
-  `+sso+:-`                 `.-/+oso:    CPU: AMD Ryzen 7 4800H with Radeon Graphics (16) @ 2.900GHz 
- `++:.                           `-/+/   GPU: NVIDIA GeForce GTX 1650 Ti Mobile 
- .`                                 `/   GPU: AMD ATI 05:00.0 Renoir 
-                                         RAM: 15363MiB
-```
-
+I’m currently working on  >>
+- Termi
+   
+I’m currently learning >
+- Just consolidating my knowledge of C, C++, Rust
+            
+Favorite programming languages >
+   1. C++
+   2. C
+   3. Rust
+   4. Lua
+   5. Python
+   
 More stuff about me:
 - I think Rust could have little better syntax
 - I wrote two books btw
