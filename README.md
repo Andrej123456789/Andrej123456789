@@ -17,7 +17,12 @@ Favorite programming languages >
    4. Lua
    5. Python
    
-More stuff about me:
+My solid personal projects >
+- [3x](https://github.com/Andrej123456789/3x)
+- [uno++](https://github.com/Andrej123456789/uno)
+- [GVPaint](https://github.com/Andrej123456789/GVPaint)
+   
+More stuff about me > 
 - I think Rust could have little better syntax
 - I wrote two books btw
 
