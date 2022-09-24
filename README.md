@@ -5,7 +5,7 @@
 *You can also check [this](http://ionicabizau.github.io/github-profile-languages/?user=Andrej123456789) most used languages stats*
 
 I’m currently working on  >>
-- Termi
+
    
 I’m currently learning >
 - Just consolidating my knowledge of C, C++, Rust
