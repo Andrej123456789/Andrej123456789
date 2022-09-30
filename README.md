@@ -8,7 +8,6 @@ I’m currently working on  >>
 
    
 I’m currently learning >
-- Just consolidating my knowledge of C, C++, Rust
             
 Favorite programming languages >
    1. C++
