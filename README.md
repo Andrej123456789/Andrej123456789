@@ -23,7 +23,8 @@ My solid personal projects >
    
 More stuff about me > 
 - I think Rust could have little better syntax
-- I wrote two books btw
+- I wrote two books
+- And btw I don't like web dev too much, it is ok but I am not in it
 
 *Status are not fully correct because most of time I am programming in/for ringwormGO*
 
