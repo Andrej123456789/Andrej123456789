@@ -24,8 +24,7 @@ My solid personal projects >
 More stuff about me > 
 - I think Rust could have little better syntax
 - I wrote two books
+- Know to use DaVinci Resolve, Kdenlive, Adobe Premiere Pro and Adobe Photoshop at level enough to make something that looks good
 - And btw I don't like web dev too much, it is ok but I am not in it
 
 *Status are not fully correct because most of time I am programming in/for ringwormGO*
-
-*I pick up my profile picture because of good contrast and I didn't pay attention on other details*
