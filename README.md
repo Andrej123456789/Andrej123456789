@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrej123456789&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrej123456789&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-*You can also check [this](http://ionicabizau.github.io/github-profile-languages/?user=Andrej123456789) most used languages stats*
+*You can also check [this](http://ionicabizau.github.io/github-profile-languages/?user=andrej123456789) most used languages stats*
 
 I’m currently working on  >>
 
