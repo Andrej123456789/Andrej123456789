@@ -5,7 +5,6 @@
 *You can also check [this](https://andrej123456789.github.io/#:~:text=Social%20stuff%3A-,languages%20chart,-Percentage%20of%20main) most used languages stats (my Firefox extension highlighted text)*
 
 I’m currently working on  >>
-
    
 I’m currently learning >
             
