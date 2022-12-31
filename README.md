@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrej123456789&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrej123456789&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-*You can also check [this](https://andrej123456789.github.io/#:~:text=Social%20stuff%3A-,languages%20chart,-Percentage%20of%20main) most used languages stats (my Firefox extension highlighted text)*
+*You can also check most graph which shows languages which take over a repo on my [personal website](https://andrej123456789.github.io/)*
 
 I’m currently working on  >>
    
