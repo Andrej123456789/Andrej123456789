@@ -14,6 +14,7 @@ Favorite programming languages >
    3. Rust
    4. Lua
    5. Python
+   6. Dart
    
 My solid personal projects >
 - [3x](https://github.com/Andrej123456789/3x)
