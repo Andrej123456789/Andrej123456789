@@ -31,3 +31,5 @@ More stuff about me >
 - And btw I don't like web dev too much, it is ok but I am not in it
 
 *Status are not fully correct because most of time I am programming in/for ringwormGO*
+
+*[Codeberg account](https://codeberg.org/Andrej123456789)*
