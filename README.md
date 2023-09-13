@@ -20,6 +20,7 @@ Favorite programming languages >
    
 My solid personal projects >
 - [3x](https://github.com/Andrej123456789/3x)
+- [gog](https://github.com/Andrej123456789/gog)
 - [uno++](https://github.com/Andrej123456789/uno)
 - [GVPaint](https://github.com/Andrej123456789/GVPaint)
    
