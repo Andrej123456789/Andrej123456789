@@ -4,7 +4,7 @@
 
 *You can also check "repo-count" statistics on my [personal website](https://andrej123456789.github.io/)*
 
-I’m currently working on >> [kelvir](https://github.com/Andrej123456789/kelvir)
+I’m currently working on >> 
 
 I’m currently learning >> 
       
