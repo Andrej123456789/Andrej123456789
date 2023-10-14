@@ -28,7 +28,7 @@ My solid personal projects >
 More stuff about me > 
 - I think Rust could have little better syntax
 - I wrote two books
-- I know to use DaVinci Resolve, Kdenlive, Adobe Premiere Pro and Adobe Photoshop at level enough to make something that looks good
+- I know how to use DaVinci Resolve, Kdenlive, Adobe Premiere Pro and Adobe Photoshop at level enough to make something that looks good
 - If my project has this note (`PROJECT IS DONE`), then I am done developing that project. I might come back someday in future but probably not; sometimes project can be dead without notice
 - And btw I don't like web dev too much, it is ok but I am not in it
 
