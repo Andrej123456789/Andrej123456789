@@ -26,7 +26,7 @@ My solid personal projects >
 - [GVPaint](https://github.com/Andrej123456789/GVPaint)
    
 More stuff about me > 
-- I think Rust could have little better syntax
+- I think Rust can have little better syntax
 - I wrote two books
 - I know how to use DaVinci Resolve, Kdenlive, Adobe Premiere Pro and Adobe Photoshop at level enough to make something that looks good
 - If my project has this note (`PROJECT IS DONE`), then I am done developing that project. I might come back someday in future but probably not; sometimes project can be dead without notice
