@@ -32,6 +32,6 @@ More stuff about me >
 - Project is dead if has `PROJECT IS DONE` label which means that I am done developing that project, but there is possibility that I might come back someday in future but probably not. Sometimes project can be dead without notice
 - And btw I don't like web dev too much, it is ok but I am not in it
 
-*Status are not fully correct because most of time I am programming in/for ringwormGO*
+*Stats are not fully correct because decent amout of time I am programming in/for ringwormGO*
 
 *[Codeberg account](https://codeberg.org/Andrej123456789)*
