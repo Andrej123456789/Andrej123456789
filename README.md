@@ -1,6 +1,6 @@
 # About me
 [![Anurag's GitHub stats](https://github-readme-stats-andrej123456789.vercel.app/api?username=Andrej123456789&theme=gruvbox&include_all_commits=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-andrej123456789.vercel.app/api/top-langs/?username=Andrej123456789&theme=monokai&layout=compact&langs_count=5&exclude_repo=Pitcher,Test11,hifamacro,blagajna,mvm,Andrej123456789_2,mouse,WpfOS,sue,alge,zadaci,CrocraftNetwork-2,ekon-backend)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-andrej123456789.vercel.app/api/top-langs/?username=Andrej123456789&theme=monokai&layout=compact&langs_count=5&exclude_repo=Pitcher,Test11,hifamacro,blagajna,mvm,Andrej123456789_2,mouse,WpfOS,sue,alge,zadaci,CrocraftNetwork-2,ekon-backend,allocator)](https://github.com/anuraghazra/github-readme-stats)
 
 *You can also check "repo-count" statistics on my [personal website](https://andrej123456789.github.io/)*
 
