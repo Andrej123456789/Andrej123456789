@@ -4,7 +4,7 @@
 
 *You can also check "repo-count" statistics on my [personal website](https://andrej123456789.github.io/)*
 
-I’m currently working on >> [Pelly](https://github.com/ringwormGO-organization/Pelly), [kaladont](https://github.com/Andrej123456789/kaladont)
+I’m currently working on >> B.A.G.E.R., [kaladont](https://github.com/Andrej123456789/kaladont)
 
 I’m currently learning >> 
       
