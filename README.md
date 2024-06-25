@@ -29,7 +29,7 @@ More stuff about me >
 - I think Rust can have little better syntax
 - I wrote two books
 - I know how to use DaVinci Resolve, Kdenlive, Adobe Premiere Pro and Adobe Photoshop at level good enough to make something that looks good
-- Project is dead if has `PROJECT IS DONE` label which means that I am done developing that project, but there is possibility that I might come back someday in future but probably not. Sometimes project can be dead without notice
+- Project is dead if it has `PROJECT IS DONE` label which means that I am done developing that project, but there is possibility that I might come back someday in future but probably not. Sometimes project can be dead without notice
 - And btw I don't like web dev too much, it is ok but I am not in it
 
 *Stats are not fully correct because decent amout of time I am programming in/for ringwormGO*
