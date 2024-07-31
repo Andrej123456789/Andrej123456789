@@ -6,7 +6,7 @@
 
 I’m currently working on >> B.A.G.E.R., [kaladont](https://github.com/Andrej123456789/kaladont)
 
-I’m currently learning >> 
+I’m currently learning >> electronics
       
 Favorite programming languages >
    1. C++
