@@ -12,11 +12,10 @@ Favorite programming languages >
    1. C++
    2. C
    3. Rust
-   4. Lua
-   5. Python
+   4. Python
+   5. Lua
    6. Dart
-   7. Kotlin
-   8. Assembly (Intel syntax)
+   7. Assembly (Intel syntax)
    
 My solid personal projects >
 - [3x](https://github.com/Andrej123456789/3x)
