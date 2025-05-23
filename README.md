@@ -4,9 +4,7 @@
 
 *You can also check "repo-count" statistics on my [personal website](https://andrej123456789.github.io/)*
 
-I’m currently working on >> ringOS, Termi, B.A.G.E.R.
-
-I’m currently learning >> electronics
+I’m currently working on >> B.A.G.E.R.
       
 Favorite programming languages >
    1. C++
