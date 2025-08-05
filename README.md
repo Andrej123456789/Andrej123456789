@@ -7,17 +7,13 @@
 Favorite programming languages >
    1. C++
    2. C
-   3. Rust
-   4. Python
-   5. Lua
-   6. Dart
-   7. Assembly (Intel syntax)
+   3. Python
+   4. Rust
    
 Personal projects >
 - [3x](https://github.com/Andrej123456789/3x)
 - [gog](https://github.com/Andrej123456789/gog)
 - [kaladont](https://github.com/Andrej123456789/kaladont)
-- [uno++](https://github.com/Andrej123456789/uno)
 - [GVPaint](https://github.com/Andrej123456789/GVPaint)
 
 ringwormGO projects >
