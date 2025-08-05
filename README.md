@@ -12,9 +12,11 @@ Favorite programming languages >
    
 Personal projects >
 - [3x](https://github.com/Andrej123456789/3x)
+- [Blagajna GUI](https://github.com/Andrej123456789/blagajna_gui)
 - [gog](https://github.com/Andrej123456789/gog)
-- [kaladont](https://github.com/Andrej123456789/kaladont)
 - [GVPaint](https://github.com/Andrej123456789/GVPaint)
+- [kaladont](https://github.com/Andrej123456789/kaladont)
+- [uno++](https://github.com/Andrej123456789/uno_pp)
 
 ringwormGO projects >
 - [ringOS](https://github.com/ringwormGO-organization/ringOS)
