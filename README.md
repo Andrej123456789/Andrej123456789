@@ -12,7 +12,6 @@ Favorite programming languages >
    
 Personal projects >
 - [3x](https://github.com/Andrej123456789/3x)
-- [Blagajna GUI](https://github.com/Andrej123456789/blagajna_gui)
 - [gog](https://github.com/Andrej123456789/gog)
 - [GVPaint](https://github.com/Andrej123456789/GVPaint)
 - [kaladont](https://github.com/Andrej123456789/kaladont)
