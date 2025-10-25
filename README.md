@@ -4,12 +4,13 @@
 
 *You can also check "repo-count" statistics on my [personal website](https://andrej123456789.github.io/)*
       
-Favorite programming languages >
+## Favorite programming languages
    1. C++
    2. C
    3. Python
    4. Rust
 
+## Projects
 | Personal programming projects                           | ringwormGO projects                                         |
 | ------------------------------------------------------- | ----------------------------------------------------------- |
 | [3x](https://github.com/Andrej123456789/3x)             | [ringOS](https://github.com/ringwormGO-organization/ringOS) |
