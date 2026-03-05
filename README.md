@@ -11,7 +11,7 @@
    4. Rust
 
 ## Projects
-| Personal programming projects                           | ringwormGO projects                                         |
+| Programming projects                                    | ringwormGO projects                                         |
 | ------------------------------------------------------- | ----------------------------------------------------------- |
 | [3x](https://github.com/Andrej123456789/3x)             | [ringOS](https://github.com/ringwormGO-organization/ringOS) |
 | [gog](https://github.com/Andrej123456789/gog)           | [Termi](https://github.com/ringwormGO-organization/Termi)   |
