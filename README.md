@@ -22,5 +22,6 @@
 | B.A.G.E.R.                                             | Non-programming projects                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------ |
 | [the whole thing :)](https://github.com/bager-project) | [Lista kotara u Splitu](https://github.com/Andrej123456789/lista_kotara_split) |
+|                                                        | [Resin toxicity](https://github.com/Andrej123456789/resin_toxicity)            |
 
 *[Codeberg account](https://codeberg.org/Andrej123456789)*
