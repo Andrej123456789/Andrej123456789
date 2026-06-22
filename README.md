@@ -11,17 +11,16 @@
    4. Rust
 
 ## Projects
-| Programming projects                                    | ringwormGO projects                                         |
-| ------------------------------------------------------- | ----------------------------------------------------------- |
-| [3x](https://github.com/Andrej123456789/3x)             | [ringOS](https://github.com/ringwormGO-organization/ringOS) |
-| [gog](https://github.com/Andrej123456789/gog)           | [Termi](https://github.com/ringwormGO-organization/Termi)   |
-| [GVPaint](https://github.com/Andrej123456789/GVPaint)   | [Pelly](https://github.com/ringwormGO-organization/Pelly)   |
-| [kaladont](https://github.com/Andrej123456789/kaladont) |                                                             |
-| [uno++](https://github.com/Andrej123456789/uno_pp)      |                                                             |
+| Programming projects                                                    | ringwormGO projects                                         |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [3x](https://github.com/Andrej123456789/3x)                             | [ringOS](https://github.com/ringwormGO-organization/ringOS) |
+| [gog](https://github.com/Andrej123456789/gog)                           | [Termi](https://github.com/ringwormGO-organization/Termi)   |
+| [GVPaint](https://github.com/Andrej123456789/GVPaint)                   | [Pelly](https://github.com/ringwormGO-organization/Pelly)   |
+| [kaladont](https://github.com/Andrej123456789/kaladont)                 |                                                             |
+| [Royal Game of Ur](https://github.com/Andrej123456789/royal_game_of_ur) |                                                             |
+| [uno++](https://github.com/Andrej123456789/uno_pp)                      |                                                             |
 
 | B.A.G.E.R.                                             | Non-programming projects                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------ |
 | [the whole thing :)](https://github.com/bager-project) | [Lista kotara u Splitu](https://github.com/Andrej123456789/lista_kotara_split) |
 |                                                        | [Resin toxicity](https://github.com/Andrej123456789/resin_toxicity)            |
-
-*[Codeberg account](https://codeberg.org/Andrej123456789)*
